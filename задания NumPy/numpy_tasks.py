@@ -24,7 +24,7 @@ print("size:", a.size)
 print("dtype:", a.dtype)
 
 
-# Задание 4. Индексы
+# Задание 4. 
 numbers = np.array([10, 20, 30, 40, 50])
 
 print("Первый элемент:", numbers[0])
